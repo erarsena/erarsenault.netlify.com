@@ -17,7 +17,12 @@
   name = "Teaching"
   url = "courses/"
   weight = 50
-
+  
+[[main]]
+  name = "Awards and Funding"
+  url = "#accomplishments"
+  weight = 55
+  
 [[main]]
   name = "Contact"
   url = "#contact"
