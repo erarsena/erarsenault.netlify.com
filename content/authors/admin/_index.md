@@ -1,48 +1,46 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include isotopes, food webs, and carbon cycling.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Ecology and Evolutionary Biology
+    institution: University of Kansas
+    year: 2021
+  - course: MA in Ecology and Evolutionary Biology
+    institution: University of Kansas
+    year: 2017
+  - course: BA in Biology and Environmental Science
+    institution: Colby College
+    year: 2014
+email: "erarsenault@ku.edu"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Isotope Analysis
+- Food Webs
+- Carbon Cycling
+- Education
+name: Emily R. Arsenault
 organizations:
-- name: Stanford University
+- name: University of Kansas
   url: ""
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/erarsenault
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=gniTF7sAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/erarsena
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a PhD candidate in the Department of Ecology & Evolutionary Biology at the University of Kansas. My research interests include isotope analysis, food webs, and carbon cycling. I study fish food webs :fish: and teach undergraduate biology and ecology labs at the University of Kansas.
