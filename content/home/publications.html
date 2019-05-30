@@ -192,34 +192,23 @@ $(document).ready(function () {
 </div>
 
 
-<p>+++ # Accomplishments widget. widget = “accomplishments” # See <a href="https://sourcethemes.com/academic/docs/page-builder/" class="uri">https://sourcethemes.com/academic/docs/page-builder/</a> headless = true # This file represents a page section. active = true # Activate this widget? true/false weight = 50 # Order that this section will appear.</p>
-<p>title = “Awards and Grants” subtitle = “”</p>
-<div id="date-format" class="section level1">
-<h1>Date format</h1>
-</div>
-<div id="refer-to-httpssourcethemes.comacademicdocscustomizationdate-format" class="section level1">
-<h1>Refer to <a href="https://sourcethemes.com/academic/docs/customization/#date-format" class="uri">https://sourcethemes.com/academic/docs/customization/#date-format</a></h1>
-<p>date_format = “2006”</p>
-</div>
-<div id="accomplishments." class="section level1">
-<h1>Accomplishments.</h1>
-</div>
-<div id="addremove-as-many-item-blocks-below-as-you-like." class="section level1">
-<h1>Add/remove as many <code>[[item]]</code> blocks below as you like.</h1>
-</div>
-<div id="title-organization-and-date_start-are-the-required-parameters." class="section level1">
-<h1><code>title</code>, <code>organization</code> and <code>date_start</code> are the required parameters.</h1>
-</div>
-<div id="leave-other-parameters-empty-if-not-required." class="section level1">
-<h1>Leave other parameters empty if not required.</h1>
-</div>
-<div id="beginend-multi-line-descriptions-with-3-quotes-." class="section level1">
-<h1>Begin/end multi-line descriptions with 3 quotes <code>&quot;&quot;&quot;</code>.</h1>
-<p>[[item]] organization = “Biology Department, University of Kansas” organization_url = “<a href="https://kuub.ku.edu/" class="uri">https://kuub.ku.edu/</a>” title = “Kenneth B. Armitage Award for Excellence in Teaching” url = “” certificate_url = “” date_start = “2019” date_end = “” description = “”</p>
-<p>[[item]] organization = “Emily Taylor Center, University of Kansas” organization_url = “<a href="https://emilytaylorcenter.ku.edu/" class="uri">https://emilytaylorcenter.ku.edu/</a>” title = “Gender Equity in Action Award” url = “” certificate_url = “” date_start = “2019” date_end = “” description = “”</p>
-<p>[[item]] organization = “Sigma Xi Scientific Research Honor Society” organization_url = “<a href="https://www.sigmaxi.org/" class="uri">https://www.sigmaxi.org/</a>” title = “Grant In Aid of Research” url = “” certificate_url = “” date_start = “2018” date_end = “” description = “”</p>
-<p>+++</p>
-</div>
+<p>+++ # A Recent Publications section created with the Pages widget. # This section displays recent blog posts from <code>content/publication/</code>.</p>
+<p>widget = “pages” # See <a href="https://sourcethemes.com/academic/docs/page-builder/" class="uri">https://sourcethemes.com/academic/docs/page-builder/</a> headless = true # This file represents a page section. active = true # Activate this widget? true/false weight = 90 # Order that this section will appear.</p>
+<p>title = “Recent Publications” subtitle = “”</p>
+<p>[content] # Page type to display. E.g. post, talk, or publication. page_type = “publication”</p>
+<p># Choose how much pages you would like to display (0 = all pages) count = 5</p>
+<p># Choose how many pages you would like to offset by offset = 0</p>
+<p># Page order. Descending (desc) or ascending (asc) date. order = “desc”</p>
+<p># Filter posts by a taxonomy term. [content.filters] tag = “” category = “” publication_type = “” exclude_featured = false</p>
+<p>[design] # Toggle between the various page layout types. # 1 = List # 2 = Compact # 3 = Card # 4 = Citation (publication only) view = 2</p>
+<p>[design.background] # Apply a background color, gradient, or image. # Uncomment (by removing <code>#</code>) an option to apply it. # Choose a light or dark text color by setting <code>text_color_light</code>. # Any HTML color name or Hex value is valid.</p>
+<p># Background color. # color = “navy”</p>
+<p># Background gradient. # gradient_start = “DeepSkyBlue” # gradient_end = “SkyBlue”</p>
+<p># Background image. # image = “background.jpg” # Name of image in <code>static/img/</code>. # image_darken = 0.6 # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.</p>
+<p># Text color (true=light or false=dark). # text_color_light = true</p>
+<p>[advanced] # Custom CSS. css_style = “”</p>
+<p># CSS class. css_class = “” +++</p>
+<p>{{% alert note %}} Quickly discover relevant content by [filtering publications]({{&lt; ref “/publication/_index.md&quot; &gt;}}). {{% /alert %}}</p>
 
 
 
