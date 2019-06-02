@@ -4,13 +4,13 @@ authors:
 bio: My research interests include isotopes, food webs, and carbon cycling.
 education:
   courses:
-  - course: PhD in Ecology and Evolutionary Biology
+  - course: PhD in Ecology
     institution: University of Kansas
     year: expected 2021
-  - course: MA in Ecology and Evolutionary Biology
+  - course: MA in Ecology
     institution: University of Kansas
     year: 2017
-  - course: BA in Biology and Environmental Science
+  - course: BA in Biology
     institution: Colby College
     year: 2014
 email: "erarsenault@ku.edu"
