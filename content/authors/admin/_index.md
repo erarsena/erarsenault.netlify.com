@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in Ecology and Evolutionary Biology
     institution: University of Kansas
-    year: 2021
+    year: expected 2021
   - course: MA in Ecology and Evolutionary Biology
     institution: University of Kansas
     year: 2017
